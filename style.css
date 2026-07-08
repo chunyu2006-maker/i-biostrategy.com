@@ -312,10 +312,13 @@ footer {
     padding: 32px 24px 8px 24px;
   }
 
-  .hero + .section,
-  .section + .section {
-    padding-top: 14px;
-  }
+  .hero + .section {
+  padding-top: 14px;
+}
+
+.section + .section {
+  padding-top: 0;
+}
 
   .profile-layout {
     grid-template-columns: 1fr;
