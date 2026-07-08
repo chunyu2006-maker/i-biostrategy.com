@@ -201,7 +201,7 @@ footer {
   margin-top: 40px;
 }
 .section + .section {
-  padding-top: 18px;
+  padding-top: 0px;
 }
 
 .hero + .section {
