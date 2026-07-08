@@ -239,6 +239,10 @@ footer {
 .strategy-table strong {
   color: #0f8b8d;
 }
+.table-cta{
+    text-align:center;
+    margin-top:36px;
+}
 /* Mobile */
 /* Mobile */
 @media (max-width: 900px) {
