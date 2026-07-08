@@ -245,8 +245,10 @@ footer {
 
 .strategy-table td:first-child {
   width: 31%;
-  font-weight: 600;
-  color: #0f8b8d;
+  font-weight: 700;
+  color: #0b6f70;      /* darker teal */
+  font-size: 18px;
+  line-height: 1.55;
 }
 
 .strategy-table td:nth-child(2) {
