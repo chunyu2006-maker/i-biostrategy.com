@@ -78,6 +78,12 @@ h2 {
   font-weight: 600;
   margin-bottom: 24px;
 }
+h3 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 36px;
+    margin-bottom: 12px;
+}
 
 /* Paragraphs */
 .hero-text,
