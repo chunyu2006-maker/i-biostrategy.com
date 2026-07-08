@@ -244,18 +244,18 @@ footer {
 }
 
 .strategy-table td:first-child {
-  width: 28%;
+  width: 31%;
   font-weight: 600;
   color: #0f8b8d;
 }
 
 .strategy-table td:nth-child(2) {
-  width: 24%;
+  width: 22%;
   font-weight: 600;
 }
 
 .strategy-table td:nth-child(3) {
-  width: 48%;
+  width: 47%;
 }
 
 .table-cta {
