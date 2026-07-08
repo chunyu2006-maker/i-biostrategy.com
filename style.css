@@ -237,6 +237,18 @@ footer {
 /* Mobile */
 /* Mobile */
 @media (max-width: 900px) {
+
+  .strategy-table {
+    display:block;
+    overflow-x:auto;
+    white-space:normal;
+}
+
+.strategy-table th,
+.strategy-table td{
+    min-width:220px;
+}
+
   .site-header {
     flex-direction: column;
     padding: 12px 24px 18px 24px;
