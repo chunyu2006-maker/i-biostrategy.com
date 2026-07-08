@@ -243,15 +243,19 @@ footer {
 /* Mobile */
 @media (max-width: 900px) {
 
-  .strategy-table {
-    display:block;
-    overflow-x:auto;
-    white-space:normal;
+.strategy-table-section {
+  padding: 32px 24px 8px 24px;
+}
+
+.strategy-table {
+  display: block;
+  overflow-x: auto;
+  white-space: normal;
 }
 
 .strategy-table th,
-.strategy-table td{
-    min-width:220px;
+.strategy-table td {
+  min-width: 220px;
 }
 
   .site-header {
