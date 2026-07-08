@@ -201,6 +201,39 @@ footer {
 .hero + .section {
   padding-top: 20px;
 }
+.strategy-table-section {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.strategy-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+    font-size: 0.98rem;
+}
+
+.strategy-table th {
+    background: #0b5d7a;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+}
+
+.strategy-table td {
+    padding: 16px;
+    border: 1px solid #ddd;
+    vertical-align: top;
+    line-height: 1.6;
+}
+
+.strategy-table tr:nth-child(even) {
+    background: #f7f9fb;
+}
+
+.strategy-table strong {
+    color: #0b5d7a;
+}
 /* Mobile */
 /* Mobile */
 @media (max-width: 900px) {
