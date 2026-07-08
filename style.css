@@ -242,6 +242,9 @@ footer {
 .table-cta{
    margin-top:32px;
 }
+.strategy-table-section h2 {
+  margin-top: 0;
+}
 /* Mobile */
 /* Mobile */
 @media (max-width: 900px) {
